@@ -1,0 +1,10 @@
+www.ejemplo.com
+blog.ejemplo.com
+admin.ejemplo.com
+dev-api.ejemplo.com
+staging.ejemplo.com
+jenkins.ejemplo.com
+test.ejemplo.com
+cdn.ejemplo.com
+vpn.ejemplo.com
+backup-old.ejemplo.com
